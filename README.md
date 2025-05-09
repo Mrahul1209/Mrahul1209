@@ -1,17 +1,13 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Rahul Makwan
+**A passionate Cloud web devlopment **
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **rm0539649@gmail.com** . 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
+- 🔭 **I’m currently working on:** web devlopment
+- 🌱 **I’m currently learning:** programming language
+- 👯 **I’m looking to collaborate on:** website build and logical task
 - 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
-## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/makwana_rahul.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul makwana) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@makwana_rahul.12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rm0539649@gmail.com) 
 
